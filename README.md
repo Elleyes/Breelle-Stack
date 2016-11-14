@@ -1,13 +1,12 @@
 # Breelle-Stack
 
-# REPO: js-scratchy-stacky TEAM:
-JS Stack from Scratch created by Hellemans (elleyes and harmanLearns)
+# Algorithms Focus Learning by team cold-jaguarundi (elleyes and debrenamcewen)
 
 ## Resources
 
 - [Frontend Masters](https://frontendmasters.com/courses/computer-science/)
+- [Freecodecamp - Get Set for Algorithm](https://www.freecodecamp.com/challenges/get-set-for-our-algorithm-challenges)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
-- [Hellemans JS Scratchy Stacky](https://github.com/harmanlearns/js-scratchy-stacky/blob/master/README.md)
 
 ## SPECS
 
