@@ -1,6 +1,6 @@
 # Breelle-Stack
 
-# Basic Algorithm Focus Learning by team: cold-jaguarundi (elleyes and debrenamcewen)
+## Basic Algorithm Focus Learning by team: cold-jaguarundi (elleyes and debrenamcewen)
 
 ## Resources
 
@@ -13,6 +13,7 @@
 ### Focus Learning and Spikes
 - [X] [4 Years of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
 - [X] [Big O Notation Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
+- [X] [How Do Great Programmers Ask Questions?] (https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.mpntj1aka)
 
 ## STRETCH
 
