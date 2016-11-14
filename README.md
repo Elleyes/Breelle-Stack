@@ -12,13 +12,14 @@
 ## SPECS
 
 ### Focus Learning and Spikes
+
 - [X] [4 Years of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
 - [X] [Big O Notation Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
 - [X] [How Do Great Programmers Ask Questions?] (https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603#.mpntj1aka)
 
 ## STRETCH
 
-### JS Stack From Scratch (sections 1-5)
+### JS Stack From Scratch | sections 1-5
 
  [1 - Node, NPM, Yarn, and package.json](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/1-node-npm-yarn-package-json)
 
