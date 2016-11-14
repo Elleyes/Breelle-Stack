@@ -1,6 +1,6 @@
 # Breelle-Stack
 
-## Basic Algorithm Focus Learning by team: cold-jaguarundi (elleyes and debrenamcewen)
+## Basic Algorithm Focus Learning by team: cold-jaguarundi | @elleyes and @debrenamcewen
 
 ## Resources
 
