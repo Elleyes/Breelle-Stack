@@ -1,8 +1,8 @@
 # Breelle-Stack
 
-## Basic Algorithm Focus Learning by team: cold-jaguarundi | @elleyes and @debrenamcewen
+## BASIC ALGORITHM Focus Learning by | TEAM cold-jaguarundi | Paired by @elleyes and @debrenamcewen
 
-## Resources
+## RESOURCES
 
 - [Frontend Masters](https://frontendmasters.com/courses/computer-science/)
 - [Freecodecamp - Big O Notation Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
