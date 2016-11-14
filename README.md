@@ -6,6 +6,7 @@
 
 - [Frontend Masters](https://frontendmasters.com/courses/computer-science/)
 - [Freecodecamp - Big O Notation Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
+- [Freecodecamp - Reverse A String](https://www.freecodecamp.com/challenges/reverse-a-string)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ## SPECS
